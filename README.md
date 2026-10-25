@@ -1,5 +1,5 @@
 <a href="https://ibb.co.com/mrPGchhS"><img src="https://i.ibb.co.com/PsVN611t/upscaled.png" alt="web designer" border="0"></a>
-<h3 align="center">Professional Web Designer, Web Developer, and WordPress Expert.</h3>
+<h3 align="">Professional Web Designer, Web Developer, and WordPress Expert.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devnizam78&label=Profile%20views&color=0e75b6&style=flat" alt="devnizam78" /> </p>
 
